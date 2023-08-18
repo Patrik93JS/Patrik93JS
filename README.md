@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **patrikludvik@gmail.com**
 
-- ⚡ Fun fact **Someone is looking for god, someone is looking for React**
+- ⚡ Fun fact **Someone is looking for God, someone is looking for React**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
