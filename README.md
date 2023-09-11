@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patrik93js&label=Profile%20views&color=0e75b6&style=flat" alt="patrik93js" /> </p>
 
-- 🔭 I’m currently working on [ToDo App](https://github.com/Patrik93JS/ToDoApp)
+- 🔭 I’m currently working on [3D Web](https://github.com/Patrik93JS/Lu2Soft)
 
 - 🌱 I’m currently learning **Redux Toolkit**
 
