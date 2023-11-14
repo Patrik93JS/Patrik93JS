@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [AI with Python](https://github.com/Patrik93JS/skolaAI)
 
-- 🌱 I’m currently learning **Redux Toolkit**
+- 🌱 I’m currently learning **Python & AI**
 
 - 💬 Ask me about **React, TypeScript**
 
