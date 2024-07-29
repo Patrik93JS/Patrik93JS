@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patrik93js&label=Profile%20views&color=0e75b6&style=flat" alt="patrik93js" /> </p>
 
-- 🔭 I’m currently working on [AI with Python](https://github.com/Patrik93JS/form)
+- 🔭 I’m currently working on [form](https://github.com/Patrik93JS/form)
 
 - 🌱 I’m currently learning **TS Generics**
 
